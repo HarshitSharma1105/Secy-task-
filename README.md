@@ -1,1 +1,1 @@
-I have managed to written the code for all the required things but my code isn't running and is throwing errors again and again and i have tried to get it right.
+I have managed to written the code for all the required things like the optimizers,forward and backward propogation but my code isn't running properly.
